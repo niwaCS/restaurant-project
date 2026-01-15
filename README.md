@@ -36,5 +36,7 @@ Trattoria Luna Rossa is a fictional Italian restaurant website that demonstrates
 - Managing assets (images, CSS) through Webpack
 - Deploying a Webpack project to GitHub Pages using git subtree
 
+## Credit
+
 - [The Odin Project](https://www.theodinproject.com) for the project guidelines
 - Hero photo by [Iulia Laslia](https://unsplash.com/@iulialaslea) on [Unsplash](https://unsplash.com/)
