@@ -6,6 +6,8 @@ import { menuPage } from './menu';
 
 import { aboutPage } from './about';
 
+import './style.css';
+
 function clearContent() {
     const contentDiv = document.getElementById('content');
     contentDiv.innerHTML = '';
